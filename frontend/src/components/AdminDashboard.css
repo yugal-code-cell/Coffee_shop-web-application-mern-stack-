@@ -1,0 +1,29 @@
+.dashboard{
+  padding:30px;
+}
+
+.table-grid{
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+}
+
+.table-card{
+  width:180px;
+  padding:20px;
+  border-radius:10px;
+  text-align:center;
+}
+
+.booked{
+  background:#ffcdd2;
+}
+
+.free{
+  background:#c8e6c9;
+}
+
+.table-card button{
+  margin-top:10px;
+  padding:8px 12px;
+}
