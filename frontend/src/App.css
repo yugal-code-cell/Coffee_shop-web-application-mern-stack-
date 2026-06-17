@@ -44,8 +44,8 @@ body{
 
 .home{
   height:90vh;
-  background-image: url('../public/logo512.png');
-  background:url("/images/hero.jpg");
+  background-image: url('../public/logo512.jpg');
+  background:url("/image/logo512.jpg");
   background-size:cover;
   background-position:center;
 }
